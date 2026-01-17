@@ -46,7 +46,7 @@ REST APIs · Authentication & Authorization · Device Fingerprinting · Secure S
 FastAPI-based license validation system with device fingerprinting, expiration control, and max-device enforcement. Tested at scale and designed for cloud deployment.
 
 🔹 **Web Monitor & Automation Tool**
-Python automation system used by ~10 users, reducing manual monitoring effort by ~90% through Selenium- and PyAutoGUI-driven workflows.
+Developed a Python-based automation tool utilizing Selenium and PyAutoGUI to streamline complex web workflows. Successfully automated high-frequency monitoring tasks, significantly reducing manual intervention and improving operational efficiency for active users.
 
 🔹 **Library Management System**
 Django-based academic project implementing book tracking, user management, and borrowing workflows.
