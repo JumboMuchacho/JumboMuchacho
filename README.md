@@ -51,9 +51,6 @@ Developed a Python-based automation tool utilizing Selenium and PyAutoGUI to str
 🔹 **Library Management System**
 Django-based academic project implementing book tracking, user management, and borrowing workflows.
 
-🔹 **IoT Chicken Feeding System (Team Lead)**
-Final year project involving an IoT-enabled automated feeding system, delivered through coordinated team development.
-
 ---
 
 ## 💼 Experience
