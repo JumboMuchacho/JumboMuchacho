@@ -3,17 +3,24 @@
 🚀 **Software & Full-Stack Developer | Backend-Focused | CS Graduate (2025)**
 🌍 Kenya · Open to Remote Roles & Internships
 
-Meet a results-driven software developer with a strong backend focus, building **real-world systems used by others**. I enjoy designing APIs, automating workflows, and shipping practical solutions that reduce manual work and scale reliably.
+# 🧠 Professional Summary
+
+Early-career Software Engineer specializing in Backend Development, Automation, and Full-Stack Systems.
+
+I build production-ready APIs, automated workflows, and reliable systems that are used by real users — reducing operational overhead and improving efficiency.
+
+💡 Unique Edge: I design and implement maintainable, secure, and scalable backend systems, combining Python expertise, workflow automation, and Linux-based deployments to ensure reliability in production environments.
+
+🌱 Currently advancing: Building robust full-stack solutions and optimizing system reliability through automation, secure API design, and operational best practices.
 
 ---
 
-## 🧠 What I Do
+## 🎯 Core Focus Areas
 
-* Build **backend systems & APIs** with Python
-* Develop **full-stack applications** for real use cases
-* Create **automation tools** that save time and eliminate repetitive work
-* Deploy and maintain applications in **Linux-based cloud environments**
-* Apply **secure design principles** and clean architecture
+* Python backend development using FastAPI and Django
+* RESTful API design and integration
+* Authentication & authorization workflows
+* Secure API development aligned with OWASP Top 10
 
 ---
 
@@ -51,11 +58,32 @@ Final year project involving an IoT-enabled automated feeding system, delivered 
 
 ## 💼 Experience
 
-**Unpaid Intern – Strategic Partnership & ICT Department**
-Busia County Government (2024)
+### Unpaid Intern – Strategic Partnership & ICT Department  
+**Busia County Government** | 2024  
+- Performed network setup and maintenance, including access point configuration  
+- Installed and supported Windows and Linux operating systems  
+- Conducted hardware and software troubleshooting in a live production environment  
+- Supported end users and assisted in day-to-day ICT operations
 
-* Networking, OS installations (Windows & Linux), access point setup
-* Hardware & software troubleshooting in a real production environment
+---
+
+### Academic Project – Library Management System  
+**School Project**  
+- Designed and developed a library management system to manage books, users, and borrowing records  
+- Implemented CRUD operations, input validation, and role-based access concepts  
+- Applied secure coding practices and basic database normalization  
+- Gained hands-on experience in backend logic, data persistence, and system workflows
+
+---
+
+### Final Year Project – Automated Chicken Feeding System  
+**Undergraduate Capstone Project**  
+- Designed and built an offline automated chicken feeding system from scratch  
+- Developed a scheduling and control interface for managing feeding times and quantities  
+- Integrated hardware control logic with a software-based user interface  
+- Applied system reliability, fault handling, and basic automation principles  
+- Documented system architecture, workflow, and evaluation results for academic assessment
+
 
 ---
 
