@@ -1,95 +1,108 @@
 # 👋 Hi, I’m Job Brian
 
-🚀 **Software & Full-Stack Developer | Backend-Focused | CS Graduate (2025)**
-🌍 Kenya · Open to Remote Roles & Internships
-
-# 🧠 Professional Summary
-
-Early-career Software Engineer specializing in Backend Development, Automation, and Full-Stack Systems.
-
-I build production-ready APIs, automated workflows, and reliable systems that are used by real users — reducing operational overhead and improving efficiency.
-
-💡 Unique Edge: I design and implement maintainable, secure, and scalable backend systems, combining Python expertise, workflow automation, and Linux-based deployments to ensure reliability in production environments.
-
-🌱 Currently advancing: Building robust full-stack solutions and optimizing system reliability through automation, secure API design, and operational best practices.
+🚀 **Backend-Focused Software Engineer | Full-Stack Systems | Automation**
+🌍 Kenya
 
 ---
 
-## 🎯 Core Focus Areas
+## 🧠 Overview
 
-* Python backend development using FastAPI and Django
-* RESTful API design and integration
-* Authentication & authorization workflows
-* Secure API development aligned with OWASP Top 10
+I’m a backend-focused software engineer building **production-ready APIs, automation tools, and full-stack systems** used by real users.
+
+My work centers on **reliable system design**, **secure API development**, and **automation-driven efficiency** — with a strong emphasis on clean architecture, maintainability, and operational robustness in Linux-based environments.
+
+**Engineering mindset:** build once, secure by design, automate where possible, and scale responsibly.
+
+---
+
+## 🎯 Engineering Focus
+
+- Backend systems with **FastAPI** and **Django**
+- RESTful API design and integration
+- Authentication, authorization, and access control
+- Secure software development aligned with **OWASP Top 10**
+- Workflow automation and system monitoring
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages**  
 Python · JavaScript · SQL · Bash
 
-**Frameworks & Libraries**
+**Frameworks & Libraries**  
 FastAPI · Django · Django REST Framework · React · Next.js · Selenium
 
-**Tools & Platforms**
+**Tools & Platforms**  
 Git · GitHub · Linux · Railway · VirtualBox · PyAutoGUI
 
-**Core Concepts**
-REST APIs · Authentication & Authorization · Device Fingerprinting · Secure SDLC · OWASP Top 10
+**Core Concepts**  
+REST APIs · Secure SDLC · Authentication & Authorization · Device Fingerprinting · Automation · OWASP Top 10
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 **License Management Server**
-FastAPI-based license validation system with device fingerprinting, expiration control, and max-device enforcement. Tested at scale and designed for cloud deployment.
+### 🔹 License Management Server
+FastAPI-based license validation service featuring:
+- Device fingerprinting
+- License expiration & renewal logic
+- Max-device enforcement
+- Stateless API design suitable for cloud deployment
 
-🔹 **Web Monitor & Automation Tool**
-Developed a Python-based automation tool utilizing Selenium and PyAutoGUI to streamline complex web workflows. Successfully automated high-frequency monitoring tasks, significantly reducing manual intervention and improving operational efficiency for active users.
+Designed for scalability, security, and integration into commercial desktop applications.
 
-🔹 **Library Management System**
-Django-based academic project implementing book tracking, user management, and borrowing workflows.
+---
+
+### 🔹 Web Monitor & Automation Tool
+Python automation system built with **Selenium** and **PyAutoGUI** to:
+- Automate complex, high-frequency web workflows
+- Monitor dynamic web states and trigger actions
+- Reduce manual operations and operational overhead
+
+Used in real-world scenarios requiring reliability and repeatability.
+
+---
+
+### 🔹 Library Management System
+Django-based system implementing:
+- Book inventory and borrowing workflows
+- User and role management concepts
+- CRUD operations with validation
+- Structured backend logic and data persistence
 
 ---
 
 ## 💼 Experience
 
-### Unpaid Intern – Strategic Partnership & ICT Department  
+### ICT Department – Industrial Attachment  
 **Busia County Government** | 2024  
-- Performed network setup and maintenance, including access point configuration  
-- Installed and supported Windows and Linux operating systems  
-- Conducted hardware and software troubleshooting in a live production environment  
-- Supported end users and assisted in day-to-day ICT operations
+
+- Deployed and maintained internal network infrastructure, including access point configuration and basic network hardening.  
+- Installed, configured, and supported **Windows and Linux** systems in a live production environment.  
+- Diagnosed and resolved hardware, OS, and application-level issues for staff.  
+- Developed and maintained **departmental websites and internal web systems**, supporting updates, uptime, and basic security practices.  
+- Provided end-user technical support and assisted in day-to-day ICT operations.  
+- Participated in system assessments, audits, and routine infrastructure maintenance.
 
 ---
 
-### Academic Project – Library Management System  
-**School Project**  
-- Designed and developed a library management system to manage books, users, and borrowing records  
-- Implemented CRUD operations, input validation, and role-based access concepts  
-- Applied secure coding practices and basic database normalization  
-- Gained hands-on experience in backend logic, data persistence, and system workflows
+## 🎓 Academic & Systems Projects
+
+### Library Management System  
+- Backend-focused academic project emphasizing data integrity, workflows, and access control concepts.
+
+### Automated Chicken Feeding System (Capstone)
+- Offline automation system integrating scheduling logic and control interfaces.
+- Emphasized system reliability, fault handling, and documentation.
 
 ---
 
-### Final Year Project – Automated Chicken Feeding System  
-**Undergraduate Capstone Project**  
-- Designed and built an offline automated chicken feeding system from scratch  
-- Developed a scheduling and control interface for managing feeding times and quantities  
-- Integrated hardware control logic with a software-based user interface  
-- Applied system reliability, fault handling, and basic automation principles  
-- Documented system architecture, workflow, and evaluation results for academic assessment
+## 📫 Links
 
+- GitHub: https://github.com/JumboMuchacho
+- LinkedIn: www.linkedin.com/in/job-brian-806703301
 
 ---
 
-## 📫 Let’s Connect
-
-* GitHub: [https://github.com/JumboMuchacho](https://github.com/JumboMuchacho)
-* LinkedIn: *(add link)*
-* Portfolio: *(add link)*
-
----
-
-⭐ *I’m open to junior roles, internships (up to 6 months), and remote opportunities. Feel free to explore my repositories or reach out.*
+⭐ This profile focuses on **engineering depth, system reliability, and real-world application**. Repositories reflect active development, experimentation, and production-grade thinking.
