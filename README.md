@@ -16,13 +16,13 @@ I specialize in engineering **high-integrity backend systems, secure APIs, and i
 ## 📌 Featured Projects
 
 ### 🔹 Poptest
-A professional-grade monitoring suite designed for high-concurrency web workflows. [View](./poptest)
+A professional-grade monitoring suite designed for high-concurrency web workflows.  [view](./poptest)
 - **Engineering:** Implements multi-tab context switching and persistent session management using localized Chrome profiles.
 - **Security:** Integrated hardware-bound licensing (HID) with local HMAC-SHA256 token caching for offline resiliency.
 - **Performance:** Optimized resource management via `psutil` to handle "zombie" process cleanup.
 
 ### 🔹 License-server
-FastAPI-driven security infrastructure for software entitlement.[view](https://github.com/JumboMuchacho/license-server)
+FastAPI-driven security infrastructure for software entitlement.  [view](https://github.com/JumboMuchacho/license-server)
 - **Cryptography:** Uses **PBKDF2 key derivation** (100k iterations) and HMAC signing to prevent response tampering.
 - **Identity:** Implements a Zero-Trust admin panel using **Supabase OAuth2** and service-role whitelisting.
 - **Logic:** Features automated device migration logic and "sticky" hardware binding.
