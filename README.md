@@ -1,75 +1,48 @@
 # 👋 Hi, I’m Job Brian
 
-🚀 **Backend-Focused Software Engineer | Full-Stack Systems | Automation**
+🚀 **Backend-Focused Software Engineer | Automation & Systems Security**
 🌍 Kenya
 
 ---
 
 ## 🧠 Overview
 
-I’m a backend-focused software engineer building **production-ready APIs, automation tools, and full-stack systems** used by real users.
+I specialize in engineering **high-integrity backend systems, secure APIs, and intelligent automation**. My work bridges the gap between complex web workflows and robust security, focusing on clean architecture, cryptographic validation, and operational reliability in Linux environments.
 
-My work centers on **reliable system design**, **secure API development**, and **automation-driven efficiency** — with a strong emphasis on clean architecture, maintainability, and operational robustness in Linux-based environments.
-
-**Engineering mindset:** build once, secure by design, automate where possible, and scale responsibly.
-
----
-
-## 🎯 Engineering Focus
-
-- Backend systems with **FastAPI** and **Django**
-- RESTful API design and integration
-- Authentication, authorization, and access control
-- Secure software development aligned with **OWASP Top 10**
-- Workflow automation and system monitoring
-
----
-
-## 🛠 Tech Stack
-
-**Languages**  
-Python · JavaScript · SQL · Bash
-
-**Frameworks & Libraries**  
-FastAPI · Django · Django REST Framework · React · Next.js · Selenium
-
-**Tools & Platforms**  
-Git · GitHub · Linux · Railway · VirtualBox · PyAutoGUI
-
-**Core Concepts**  
-REST APIs · Secure SDLC · Authentication & Authorization · Device Fingerprinting · Automation · OWASP Top 10
+**Core Philosophy:** Security by design, stateless scalability, and precision-engineered automation.
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 License Management Server
-FastAPI-based license validation service featuring:
-- Device fingerprinting
-- License expiration & renewal logic
-- Max-device enforcement
-- Stateless API design suitable for cloud deployment
+### 🔹 [Poptest: Intelligent Browser Automation](./Poptest)
+A professional-grade monitoring suite designed for high-concurrency web workflows.
+- **Engineering:** Implements multi-tab context switching and persistent session management using localized Chrome profiles.
+- **Security:** Integrated hardware-bound licensing (HID) with local HMAC-SHA256 token caching for offline resiliency.
+- **Performance:** Optimized resource management via `psutil` to handle "zombie" process cleanup.
 
-Designed for scalability, security, and integration into commercial desktop applications.
-
----
-
-### 🔹 Web Monitor & Automation Tool
-Python automation system built with **Selenium** and **PyAutoGUI** to:
-- Automate complex, high-frequency web workflows
-- Monitor dynamic web states and trigger actions
-- Reduce manual operations and operational overhead
-
-Used in real-world scenarios requiring reliability and repeatability.
-
----
+### 🔹 [Licensing Authority: Backend Control Plane](./license-server)
+FastAPI-driven security infrastructure for software entitlement.
+- **Cryptography:** Uses **PBKDF2 key derivation** (100k iterations) and HMAC signing to prevent response tampering.
+- **Identity:** Implements a Zero-Trust admin panel using **Supabase OAuth2** and service-role whitelisting.
+- **Logic:** Features automated device migration logic and "sticky" hardware binding.
 
 ### 🔹 Library Management System
-Django-based system implementing:
-- Book inventory and borrowing workflows
-- User and role management concepts
-- CRUD operations with validation
-- Structured backend logic and data persistence
+A Django-centric application focusing on complex relational data and borrowing workflows.
+- Implements strict CRUD validation and role-based access control (RBAC).
+- Focused on data integrity and structured backend logic.
+
+---
+
+## 🛠 Tech Stack
+
+**Languages** Python (Expert) · JavaScript · SQL · Bash · PowerShell
+
+**Frameworks & Libraries** FastAPI · Django · Django REST Framework · Selenium · React · Next.js
+
+**Infrastructure & Security** Linux (System Admin) · Git · GitHub · PostgreSQL · Supabase Auth · HMAC/SHA-256 · PBKDF2
+
+**Core Competencies** RESTful API Design · Secure SDLC · Device Fingerprinting · Workflow Automation · OWASP Top 10
 
 ---
 
@@ -78,31 +51,26 @@ Django-based system implementing:
 ### ICT Department – Industrial Attachment  
 **Busia County Government** | 2024  
 
-- Deployed and maintained internal network infrastructure, including access point configuration and basic network hardening.  
-- Installed, configured, and supported **Windows and Linux** systems in a live production environment.  
-- Diagnosed and resolved hardware, OS, and application-level issues for staff.  
-- Developed and maintained **departmental websites and internal web systems**, supporting updates, uptime, and basic security practices.  
-- Provided end-user technical support and assisted in day-to-day ICT operations.  
-- Participated in system assessments, audits, and routine infrastructure maintenance.
+- **Infrastructure:** Deployed and hardened internal network infrastructure, including WAP configuration and network diagnostics.
+- **Systems Admin:** Managed Windows and Linux deployments, resolving OS-level vulnerabilities and application conflicts.
+- **Development:** Maintained departmental web systems, prioritizing uptime and security patching for internal tools.
+- **Audit & Support:** Conducted routine system audits and provided technical support for enterprise-scale ICT operations.
 
 ---
 
-## 🎓 Academic & Systems Projects
+## 🎓 Academic & Systems Engineering
 
-### Library Management System  
-- Backend-focused academic project emphasizing data integrity, workflows, and access control concepts.
-
-### Automated Chicken Feeding System (Capstone)
-- Offline automation system integrating scheduling logic and control interfaces.
-- Emphasized system reliability, fault handling, and documentation.
+- **Library Management System:** Academic focus on data integrity, relational workflows, and state management.
+- **Automated Chicken Feeding System (Capstone):** An IoT/Offline automation project emphasizing scheduling logic, hardware-software interfacing, and fault handling.
 
 ---
 
-## 📫 Links
+## 📫 Connect with Me
 
-- GitHub: https://github.com/JumboMuchacho
-- LinkedIn: www.linkedin.com/in/job-brian-806703301
+- **GitHub:** [JumboMuchacho](https://github.com/JumboMuchacho)
+- **LinkedIn:** [Job Brian](https://www.linkedin.com/in/job-brian-806703301)
+- **Email:** 0725766022 (Contact for direct inquiries)
 
 ---
 
-⭐ This profile focuses on **engineering depth, system reliability, and real-world application**. Repositories reflect active development, experimentation, and production-grade thinking.
+⭐ *This profile reflects a commitment to engineering depth, cryptographic security, and production-grade software delivery.*
