@@ -15,13 +15,13 @@ I specialize in engineering **high-integrity backend systems, secure APIs, and i
 
 ## 📌 Featured Projects
 
-### 🔹 [Poptest: Intelligent Browser Automation](./Poptest)
+### 🔹 [Poptest](./Poptest)
 A professional-grade monitoring suite designed for high-concurrency web workflows.
 - **Engineering:** Implements multi-tab context switching and persistent session management using localized Chrome profiles.
 - **Security:** Integrated hardware-bound licensing (HID) with local HMAC-SHA256 token caching for offline resiliency.
 - **Performance:** Optimized resource management via `psutil` to handle "zombie" process cleanup.
 
-### 🔹 [Licensing Authority: Backend Control Plane](./license-server)
+### 🔹 [License-server](./license-server)
 FastAPI-driven security infrastructure for software entitlement.
 - **Cryptography:** Uses **PBKDF2 key derivation** (100k iterations) and HMAC signing to prevent response tampering.
 - **Identity:** Implements a Zero-Trust admin panel using **Supabase OAuth2** and service-role whitelisting.
