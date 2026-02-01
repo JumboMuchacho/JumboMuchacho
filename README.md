@@ -16,7 +16,7 @@ I specialize in engineering **high-integrity backend systems, secure APIs, and i
 ## 📌 Featured Projects
 
 ### 🔹 Poptest
-A professional-grade monitoring suite designed for high-concurrency web workflows.  [view](./poptest)
+A professional-grade monitoring suite designed for high-concurrency web workflows.  [view](https://github.com/JumboMuchacho/browser-automation-suite/tree/main/poptest)
 - **Engineering:** Implements multi-tab context switching and persistent session management using localized Chrome profiles.
 - **Security:** Integrated hardware-bound licensing (HID) with local HMAC-SHA256 token caching for offline resiliency.
 - **Performance:** Optimized resource management via `psutil` to handle "zombie" process cleanup.
